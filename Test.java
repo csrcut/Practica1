@@ -25,7 +25,7 @@ public class Test extends WindowAdapter implements ActionListener{
 	p2=new Panel();p2.setBackground(Color.cyan);
         p3=new Panel ();
 	
-	
+	//Preguntas y respuestas 
 	x=new Label("Te gustan los Videojuegos?");
         e=new Label("Cual es tu edad ? ");
 	l=new Label("Genero de Musical que mas Detestas");
